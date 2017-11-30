@@ -31,3 +31,4 @@ Installation
 1-Unzip the compressed folders(CPS1.zip,PH.zip, Plottwo.zip, Sequentialarrival.zip, Shortcounter.zip, Simultaneousarrival.zip)  
 2-Put the unzip folders  (CPS1, PH, Plottwo, Sequentialarrival, Shortcounter, Simultaneousarrival) in your main folder 
 3- Run the AGATHA.m
+
